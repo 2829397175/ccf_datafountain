@@ -1,0 +1,2 @@
+wget https://s3.cn-north-1.amazonaws.com.cn/files.datafountain.cn/uploads/images/competitions/614/paper_machine_data-788605.csv
+wget https://s3.cn-north-1.amazonaws.com.cn/files.datafountain.cn/uploads/images/competitions/614/train-974578.csv
